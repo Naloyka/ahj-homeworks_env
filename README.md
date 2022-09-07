@@ -1,5 +1,5 @@
-# Webpack5
+# Домашнее задание к занятию "1. Рабочее окружение"
 
-[Информация о релизе Webpack 5](https://webpack.js.org/blog/2020-10-10-webpack-5-release/)
+[Ссылка на задание](https://github.com/netology-code/ahj-homeworks/tree/video/env)
 
-[Migration Guide](https://webpack.js.org/migrate/5/)
+[![Build status](https://ci.appveyor.com/api/projects/status/0agxr2bt1dc5n09t?svg=true)](https://ci.appveyor.com/project/anna-popova/ahj-homeworks-env)
