@@ -1,11 +1,6 @@
-// TODO: write code here
-
-// comment this to pass build
-const unusedVariable = 'variable';
-
-// for demonstration purpose only
-export default function demo(value) {
-  return value;
+export default function calculate(a, b) {
+  return a + b;
 }
 
-console.log('app.js included');
+
+console.log('app.js is working!');
